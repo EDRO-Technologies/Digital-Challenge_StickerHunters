@@ -1,0 +1,6 @@
+body {
+     background-image: url("../img/back.png");
+}
+div.contanier {
+    vertical-align: middle
+}
